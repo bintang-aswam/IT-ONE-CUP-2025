@@ -28,6 +28,7 @@
 <pre><code>pip install -r requirements.txt</code></pre>
 
 3.Разрабатываются четыре основных кодекса:
+
 a). распознавание-речи-в-текст.py (speech-to-text recognition.py)
 
 b). база данных.py (database.py)
