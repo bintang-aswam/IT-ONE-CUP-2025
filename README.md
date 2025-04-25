@@ -37,6 +37,6 @@ c). модель-ollama.py (model-ollama.py)
 d). парс.py (pars.py)
 
 <h3> вывод запущенного кода [pars-py] </h3>
-![demo](https://github.com/bintang-aswam/IT-ONE-CUP-2025/blob/main/demo.png)
+![demo](https://github.com/user-attachments/assets/6c69bbe8-b2c4-41ed-9888-d6a124e90e98)
 
 
