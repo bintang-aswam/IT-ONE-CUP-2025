@@ -20,3 +20,11 @@
 - Вносит исправления и осуществляет финальную визуализацию.
 
 <h3> Установка: </h3>
+1. Клонировать репозиторий
+<pre><code>git clone https://github.com/bintang-aswam/IT-ONE-CUP-2025.git</code></pre>
+
+
+2. Перейти в в директорию проекта и установить зависимости:</h3>
+<pre><code>pip install -r requirements.txt</code></pre>
+
+3.
