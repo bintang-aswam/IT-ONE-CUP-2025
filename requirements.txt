@@ -1,0 +1,13 @@
+psycopg2-binary==2.9.10
+requests==2.32.3
+sqlite3==0.5.4
+wave==0.0.2
+dash==3.0.4
+sounddevice==0.5.1
+matplotlib==3.10.1
+networkx==3.4.2
+transformers==4.51.3
+dotenv==0.9.9
+
+
+
