@@ -29,7 +29,10 @@
 
 3.Разрабатываются четыре основных кодекса:
 a). распознавание-речи-в-текст.py (speech-to-text recognition.py)
+
 b). база данных.py (database.py)
+
 c). модель-ollama.py (model-ollama.py)
+
 d). парс.py (pars.py)
 
