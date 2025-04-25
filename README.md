@@ -27,4 +27,9 @@
 2. Перейти в в директорию проекта и установить зависимости: <p>
 <pre><code>pip install -r requirements.txt</code></pre>
 
-3.
+3.Разрабатываются четыре основных кодекса:
+a). распознавание-речи-в-текст.py (speech-to-text recognition.py)
+b). база данных.py (database.py)
+c). модель-ollama.py (model-ollama.py)
+d). парс.py (pars.py)
+
